@@ -1,16 +1,26 @@
 ## Hi there 👋
+My name is **nxion**, I’m an IT professional and passionate seeker of knowledge for everything IT. What I learn I try to share and make working with IT enjoyable!
 
-<!--
-**nxion/nxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ☕ Stay Connected
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+---
+
+## 🔢 Most Used Languages
+
+Here’s a quick look at the languages I work with the most:
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxion&layout=compact&theme=default)
+
+**Profile views**: ![View count](https://komarev.com/ghpvc/?username=nxion)
+
+
+- 🔭 I’m currently working on [C# Foundational Certificate from freeCodeCamp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) as well as a few [Google certificates](https://grow.google/certificates/) specific to Data Analytics, IT Support & Cybersecurity
+- 🌱 I’m currently learning Data Analysis/Engineering as well as SQL/Tableau 
+- 👯 I’m looking to collaborate on whatever project needs additioal help!
+- ⚡ Fun fact: I love 🐈 cats 🐈
