@@ -19,10 +19,6 @@ Here’s a quick look at the languages I work with the most:
 
 **Profile views**: ![View count](https://komarev.com/ghpvc/?username=nxion)
 
-## Certifications
-[![Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/BeauBechdol-4955/9ECB65023596FF53?sharingId=7162AFA7CEDEB753)
-
-
 - 🔭 I’m currently working on [C# Foundational Certificate from freeCodeCamp](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) as well as a few [Google certificates](https://grow.google/certificates/) specific to Data Analytics, IT Support & Cybersecurity
 - 🌱 I’m currently learning Data Analysis/Engineering as well as SQL/Tableau 
 - 👯 I’m looking to collaborate on whatever project needs additioal help!
